@@ -14,20 +14,23 @@ This repository is here to help you, whether you're just starting out, preparing
 
 ---
 ## 🎞️ Slides
-- [Introduction to Kubernetes (Vikram)](<Slides/Introduction to Kubernetes (Vikram).pdf>)
-- [Containers and Kubernetes Security (Matt Colman)](<Slides/Containers and Kubernetes Security (Matt Colman).pdf>)
+- [Containers and Kubernetes Security (Matt Colman, 2021)](<Slides/Containers and Kubernetes Security (Matt Colman, 2021).pdf>)
+- [Introduction to Kubernetes (Vikram, 2023)](<Slides/Introduction to Kubernetes (Vikram, 2023).pdf>)
+- [Kubernetes Pod - Complete Guide (Salwan Mohamed, 2025)](<Slides/Kubernetes Pod - Complete Guide (Salwan Mohamed, 2025).pdf>)
 
 ## 📘 Documentation
-- [Kubernetes Security Guide (Sysdig)](<Documentation/Kubernetes Security Guide (Sysdig).pdf>)
+- [Kubernetes Security Guide (Sysdig, 2021)](<Documentation/Kubernetes Security Guide (Sysdig, 2021).pdf>)
 
 ## ❓ Interview Questions and Answers
-- [Kubernetes Interview Questions (Akhilesh)](<Interview Questions and Answers/Kubernetes Interview Questions (Akhilesh).pdf>)
-- [Kubernetes Interview Questions (InterviewBit)](<Interview Questions and Answers/Kubernetes Interview Questions (InterviewBit).pdf>)
-- [Kubernetes Interview Questions and Answers (Joshua)](<Interview Questions and Answers/Kubernetes Interview Questions and Answers (Joshua).pdf>)
-- [Kubernetes Interview Questions and Troubleshooting Answers (Saraswah)](<Interview Questions and Answers/Kubernetes Interview Questions and Troubleshooting Answers (Saraswah).pdf>)
+- [Kubernetes Interview Questions (WebMagic Informatica, 2022)](<Interview Questions and Answers/Kubernetes Interview Questions (WebMagic Informatica, 2022).pdf>)
+- [Kubernetes Interview Questions and Answers (DevOps Shack, 2024)](<Interview Questions and Answers/Kubernetes Interview Questions and Answers (DevOps Shack, 2024).pdf>)
+- [Kubernetes Interview Questions (Akhilesh Dhoke, 2025)](<Interview Questions and Answers/Kubernetes Interview Questions (Akhilesh Dhoke, 2025).pdf>)
+- [Kubernetes Interview Questions (InterviewBit, 2025)](<Interview Questions and Answers/Kubernetes Interview Questions (InterviewBit, 2025).pdf>)
+- [Kubernetes Interview Questions and Answers (Joshua Veeraiah, 2025)](<Interview Questions and Answers/Kubernetes Interview Questions and Answers (Joshua Veeraiah, 2025).pdf>)
+- [Kubernetes Interview Questions and Troubleshooting Answers (Saraswah, 2025)](<Interview Questions and Answers/Kubernetes Interview Questions and Troubleshooting Answers (Saraswah, 2025).pdf>)
 
 ## 🛠️ Troubleshooting Guides
-- [50 Kubernetes Errors & Solutions (DevOps Shack)](<Troubleshooting Guides/50 Kubernetes Errors & Solutions (DevOps Shack).pdf>)
+- [50 Kubernetes Errors & Solutions (DevOps Shack, 2025)](<Troubleshooting Guides/50 Kubernetes Errors & Solutions (DevOps Shack, 2025).pdf>)
 
 ## 📚 Exam Prep
 - [Certified Kubernetes Administrator (CKA) Sample Curriculum Path (2024)](<Exam Prep/Certified Kubernetes Administrator (CKA) Sample Curriculum Path (2024).pdf>)
