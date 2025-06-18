@@ -16,7 +16,9 @@ This repository is here to help you, whether you're just starting out, preparing
 ## 🎞️ Slides
 - [Containers and Kubernetes Security (Matt Colman, 2021)](<Slides/Containers and Kubernetes Security (Matt Colman, 2021).pdf>)
 - [Introduction to Kubernetes (Vikram, 2023)](<Slides/Introduction to Kubernetes (Vikram, 2023).pdf>)
-- [Kubernetes Pod - Complete Guide (Salwan Mohamed, 2025)](<Slides/Kubernetes Pod - Complete Guide (Salwan Mohamed, 2025).pdf>)
+- [The Complete Kubernetes Pod Guide (Salwan Mohamed, 2025)](<Slides/The Complete Kubernetes Pod Guide (Salwan Mohamed, 2025).pdf>)
+- [The Complete Kubernetes Service Mastery Guide (Salwan Mohamed, 2025)](<Slides/The Complete Kubernetes Service Mastery Guide (Salwan Mohamed, 2025).pdf>)
+- [Master Kubernetes Networking (Mohana Srinivasan, 2025)](<Slides/Master Kubernetes Networking (Mohana Srinivasan, 2025).pdf>)
 
 ## 📘 Documentation
 - [Kubernetes Security Guide (Sysdig, 2021)](<Documentation/Kubernetes Security Guide (Sysdig, 2021).pdf>)
@@ -31,6 +33,7 @@ This repository is here to help you, whether you're just starting out, preparing
 
 ## 🛠️ Troubleshooting Guides
 - [50 Kubernetes Errors & Solutions (DevOps Shack, 2025)](<Troubleshooting Guides/50 Kubernetes Errors & Solutions (DevOps Shack, 2025).pdf>)
+- [Kubernetes Real-Time Troubleshooting Guides - Part 30 (Prasad Suman Mohan, 2025)](<Troubleshooting Guides/Kubernetes Real-Time Troubleshooting Guides - Part 30 (Prasad Suman Mohan, 2025).pdf>)
 
 ## 📚 Exam Prep
 - [Certified Kubernetes Administrator (CKA) Sample Curriculum Path (2024)](<Exam Prep/Certified Kubernetes Administrator (CKA) Sample Curriculum Path (2024).pdf>)
