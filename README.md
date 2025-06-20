@@ -21,6 +21,7 @@ This repository is here to help you, whether you're just starting out, preparing
 - [The Complete Kubernetes Pod Guide (Salwan Mohamed, 2025)](<Slides/The Complete Kubernetes Pod Guide (Salwan Mohamed, 2025).pdf>)
 - [The Complete Kubernetes Service Mastery Guide (Salwan Mohamed, 2025)](<Slides/The Complete Kubernetes Service Mastery Guide (Salwan Mohamed, 2025).pdf>)
 - [Master Kubernetes Networking (Mohana Srinivasan, 2025)](<Slides/Master Kubernetes Networking (Mohana Srinivasan, 2025).pdf>)
+- [Master Guide for Production-Ready Applications (Salwan Mohamed, 2025)](<Slides/Master Guide for Production-Ready Applications (Salwan Mohamed, 2025).pdf>)
 
 ## 📘 Documentation
 - [Kubernetes Security Guide (Sysdig, 2021)](<Documentation/Kubernetes Security Guide (Sysdig, 2021).pdf>)
