@@ -17,6 +17,7 @@ This repository is here to help you, whether you're just starting out, preparing
 ## 🎞️ Slides
 - [Kubernetes AWS (Tiffany Jernigan, 2018)](<Slides/Kubernetes AWS (Tiffany Jernigan, 2018).pdf>)
 - [Containers and Kubernetes Security (Matt Colman, 2021)](<Slides/Containers and Kubernetes Security (Matt Colman, 2021).pdf>)
+- [An Overview of Kubernetes Scheduling (Hailiang Zhao, 2022)](<Slides/An Overview of Kubernetes Scheduling (Hailiang Zhao, 2022).pdf>)
 - [Introduction to Kubernetes (Vikram, 2023)](<Slides/Introduction to Kubernetes (Vikram, 2023).pdf>)
 - [The Complete Kubernetes Pod Guide (Salwan Mohamed, 2025)](<Slides/The Complete Kubernetes Pod Guide (Salwan Mohamed, 2025).pdf>)
 - [The Complete Kubernetes Service Mastery Guide (Salwan Mohamed, 2025)](<Slides/The Complete Kubernetes Service Mastery Guide (Salwan Mohamed, 2025).pdf>)
@@ -45,6 +46,9 @@ This repository is here to help you, whether you're just starting out, preparing
 - [Certified Kubernetes Security Specialist (CKS) Exam Curriculum (2025)](<Exam Prep/Certified Kubernetes Security Specialist (CKS) Exam Curriculum (2025).pdf>)
 
 ## 📖 Research Papers
+- [A Formal Model of the Kubernetes Container Framework (2020)](<Research Papers/A Formal Model of the Kubernetes Container Framework (2020).pdf>)
+- [Predicting Resource Consumption of Kubernetes Container Systems using Resource Models (2023)](<Research Papers/Predicting Resource Consumption of Kubernetes Container Systems using Resource Models (2023).pdf>)
+- [Enhancing Kubernetes Automated Scheduling with Deep  Learning and Reinforcement Techniques for Large-Scale Cloud Computing Optimization (2024)](<Research Papers/Enhancing Kubernetes Automated Scheduling with Deep  Learning and Reinforcement Techniques for Large-Scale Cloud Computing Optimization (2024).pdf>)
 - [A Comparative Study on Enhancing Container Management with Kubernetes (2024)](<Research Papers/A Comparative Study on Enhancing Container Management with Kubernetes (2024).pdf>)
 - [Kubernetes Application Performance Benchmarking on Heterogeneous CPU Architecture - An Experimental Review (2024)](<Research Papers/Kubernetes Application Performance Benchmarking on Heterogeneous CPU Architecture - An Experimental Review (2024).pdf>)
 - [Kubernetes Deployment Options for On-Prem Clusters (2024)](<Research Papers/Kubernetes Deployment Options for On-Prem Clusters (2024).pdf>)
