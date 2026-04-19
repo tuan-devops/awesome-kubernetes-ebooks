@@ -83,12 +83,14 @@ Explore a rich set of materials, including:
 - [ArgoCD Examples (Brad, 2022)](https://github.com/devopsjourney1/argo-examples)
 
 ### Docker
+- [Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain) - Self-evolving AI coding intelligence with infinite memory (TurboQuant), genetic algorithm self-evolution, predictive bug detection, PageRank knowledge graphs, swarm intelligence, and adversarial defense.
 - [Awesome Docker Compose Examples (Haxxnet, 2025)](https://github.com/Haxxnet/Compose-Examples)
 - [Dockerfiles (vimagick, 2025)](https://github.com/vimagick/dockerfiles)
 - [Dockerfiles (Hari Sekhon, 2025)](https://github.com/HariSekhon/Dockerfiles)
 - [Awesome Docker Compose (Docker, 2024)](https://github.com/docker/awesome-compose)
 - [Dockerfiles (Jess Frazelle, 2021)](https://github.com/jessfraz/dockerfiles)
 
+- [Omni Skills Forge](https://github.com/theihtisham/omni-skills-forge) - 50,000+ curated AI agent skills for Claude Code, Cursor, Copilot, Windsurf, Cline with visual dashboard, one-click install, and auto-update.
 ### Kustomize
 - [Kustomize Examples (viadee, 2019)](https://github.com/viadee/kustomize-examples)
 
