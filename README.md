@@ -242,6 +242,7 @@ Explore a rich set of materials, including:
 - [Awesome Kubernetes (K8s) Security (Magno Logan, 2025)](https://github.com/magnologan/awesome-k8s-security)
 - [Awesome Kubernetes Resources (Tom Huang, 2025)](https://github.com/tomhuang12/awesome-k8s-resources)
 - [Awesome Kubernetes (Nubenetes, 2024)](https://github.com/nubenetes/awesome-kubernetes)
+- [KubeStellar Console (KubeStellar, 2025)](https://github.com/kubestellar/console) - Open source AI-powered multi-cluster Kubernetes dashboard with real-time observability, CNCF integrations (Argo, Kyverno, Prometheus, and 20+ others), and edge/cloud cluster management. CNCF Sandbox project.
 ---
 
 ## 🚀 Contribute & Collaborate
